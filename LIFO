@@ -1,0 +1,17 @@
+import java.util.Stack;
+
+public class lifo {
+    public static void main(String[] args) {
+       
+        Stack<String> LIFO = new Stack<>();
+        
+        LIFO.push("15");
+        LIFO.push("12");
+        LIFO.push("5");
+        LIFO.push("3");
+
+        System.out.println("POP POP POP WATCH THOSE NIGGERS DROP => " + LIFO);
+        System.out.println();
+
+    }
+}
